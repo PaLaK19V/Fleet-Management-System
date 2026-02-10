@@ -1,0 +1,4 @@
+3
+R1,CityA-CityB,150.0
+R2,Warehouse-Port,45.5
+R3,Interstate-Long,500.0
